@@ -96,14 +96,46 @@ const List<List> _defaultEnglishLayout = [
     '/',
     VirtualKeyboardKeyAction.Shift
   ],
-  // Row 5
   const [
-    VirtualKeyboardKeyAction.SwithLanguage,
+    '!',
     '@',
-    VirtualKeyboardKeyAction.Space,
+    '#',
+    '\$',
+    '%',
+    '^',
     '&',
-    '_',
-  ]
+    '*',
+    '(',
+    ')',
+  ],
+  const [
+    '-',
+    '=',
+    '[',
+    ']',
+    '{',
+    '}',
+    '|',
+    '\\',
+    // ';',
+    // '\'',
+  ],
+  const [
+    ':',
+    '"',
+    // ',',
+    // '.',
+    // '/',
+    '<',
+    '>',
+    '?',
+    '~',
+    '`',
+  ],
+  // Row 5
+  // const [
+  //   VirtualKeyboardKeyAction.Space,
+  // ],
 ];
 
 const List<List> _defaultArabicLayout = [
